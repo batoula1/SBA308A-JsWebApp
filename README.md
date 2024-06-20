@@ -38,11 +38,3 @@ cat-lover-website/
 ├── helper.js
 ├── CatData.js
 └── README.md
-
-### HTML (`index.html`)
-
-The main structure of the website. It includes links to the CSS and JavaScript files, and a button to fetch cat images.
-
-
-
-    
